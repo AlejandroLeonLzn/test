@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="add">add</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="color">Color</string>
+</resources>
